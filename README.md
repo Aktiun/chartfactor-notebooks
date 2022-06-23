@@ -1,6 +1,6 @@
 # ChartFactor Notebooks
 
-This is the public collection of ChartFactor notebooks, ready to be used with Jupyter Lab. Each of thees notebooks include fully interactive visual analytics applications that you can use as examples to create your own.
+This is the public collection of ChartFactor notebooks, ready to be used in Jupyter Lab. Each of thees notebooks include fully interactive visual analytics applications that you can use as examples to create your own.
 
 ## Instructions to use ChartFactor notebooks
 
